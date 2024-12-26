@@ -10,5 +10,5 @@ A corn dataset based on stereo vision, featuring annotations for detection, segm
 
 
 # 2. Pose estimation based on point cloud from segmentation
+<img src="https://github.com/GYLLLLLL/Stereo-Corn/blob/main/2.png" width="210px">
 
-![image](https://github.com/GYLLLLLL/Stereo-Corn/blob/main/2.png)
