@@ -11,6 +11,6 @@ This dataset will be made publicly available upon the completion of related rese
 
 
 
-# 2. Pose estimation based on point cloud from segmentation
+# 2. Pose estimation from point cloud
 <img src="https://github.com/GYLLLLLL/Stereo-Corn/blob/main/2.png" width="210px">
 
