@@ -1,6 +1,8 @@
 # Stereo-Corn Dataset
 A corn dataset based on stereo vision, featuring annotations for detection, segmentation, and 3D object detection.
 
+This dataset will be made publicly available upon the completion of related research tasks.
+
 
 # For the following tasks:
 # 1. Pose estimation based on KITTI 3D object detection format
